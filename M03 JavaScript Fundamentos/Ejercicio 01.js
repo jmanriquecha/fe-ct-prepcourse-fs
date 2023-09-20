@@ -21,7 +21,7 @@ const nuevaMultiplicacion = (10 * 4) === 40;
 
 // Resuelve el siguiente problema matemático.
 const nuevoModulo = null === null
-// console.log(null);
+
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
    nuevoString,
